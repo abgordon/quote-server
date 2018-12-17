@@ -168,7 +168,6 @@ The Analytical Engine weaves Algebraical patterns just as the Jacquard loom weav
 - A. Augusta, Countess of Lovelace, on Babbage's Analytical Engine
 
 
-B
 On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question.
 - C. Babage
 
@@ -303,8 +302,6 @@ They may forget what you said, but they will never forget how you made them feel
 Learning how to learn is life's most important skill.
 - T. Buzan
 
-
-C
 The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.
 - T. Cargill
 
@@ -364,8 +361,6 @@ The generation of random numbers is too important to be left to chance.
 If you don't think carefully, you might believe that programming is just typing statements in a programming language.
 - W. Cunningham
 
-
-D
 Who dares to teach must never cease to learn.
 - J.C. Dana
 
@@ -450,8 +445,6 @@ The first step in fixing a broken program is getting it to fail repeatably [on t
 It's supposed to be hard! If it wasn't hard, everyone would do it. The hard... is what makes it great!"
 - J. Dugan (said by Tom Hanks' character in "A League of Their Own" in response to a complaint from one of his ball players)
 
-
-E
 Genius is 1 percent inspiration and 99 percent perspiration. As a result, genius is often a talented person who has simply done all of his homework.
 - T. Edison
 
@@ -485,8 +478,6 @@ Shall I tell you the secret of the true scholar? It is this: every man I meet is
 The proof of a high education is the ability to speak about complex matters as simply as possible.
 - R.W. Emerson
 
-
-F
 The structure of a system reflects the structure of the organization that built it.
 - R. Fairley
 
@@ -552,8 +543,6 @@ When I am working on a problem, I never think about beauty. I think only of how 
 The biggest difference between time and space is that you can't reuse time.
 - M. Furst
 
-
-G
 Habitability is the characteristic of source code that enables programmers coming to the code later in its life to understand its construction and intentions and to change it comfortably and confidently... Software needs to be habitable because it always has to change...Programs are written and maintained, bugs are fixed, features are added, performance is tuned, and a whole variety of changes are made both by the original and new programming team members... What is important is that it be easy for programmers to come up to speed with the code, to be able to navigate through it effectively, to be able to understand what changes to make, and to be able to make them safely and correctly.
 - R. Gabriel (Patterns of Software, Oxford Press 1996)
 
@@ -654,7 +643,6 @@ Any sufficiently complicated C or Fortran program contains an ad hoc informally 
 
 UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.
 - D. Gwyn
-
 
 Any performance problem can be solved by removing a level of indirection. (also see "Any programming problem..." by Anonymous).
 - M. Haertel
@@ -778,9 +766,6 @@ We [teachers] make the road, others will make the journey.
 The greatest mistake you can make is to be continually fearing you will make one.
 - E. Hubbard
 
-
-I
-J
 Rules of Optimization:
   Rule 1: Don't do it.
   Rule 2 (for experts only): Don't do it yet.
@@ -817,7 +802,6 @@ In the particular is contained the universal.
 
 Mistakes are the portals of discovery.
 - J. Joyce
-
 
 90% of code written today is getting around other people's mistakes.
 - A. Kay
@@ -902,8 +886,6 @@ If we really understand the problem, the answer will come out of it, because the
 Any sufficiently advanced bug is indistiguishable from a feature.
 - R. Kulawiec
 
-
-L
 There is a race between the increasing complexity of the systems we build and our ability to develop intellectual tools for understanding their complexity. If the race is won by our tools, then systems will eventually become easier to use and more reliable. If not, they will continue to become harder to use and less reliable for all but a relatively small set of common tasks. Given how hard thinking is, if those intellectual tools are to succeed, they will have to substitute calculation for thought.
 - L. Lamport
 
@@ -936,8 +918,6 @@ Complexity is a sign of technical immaturity. Simplicity of use is the real sign
 Composing computer programs to solve scientific problems is like writing poetry. You must choose every word with care and link it with the other words in perfect syntax. There is no place for verbosity or carelessness. To become fluent in a computer lnaguage demands almost the antithesis of modern loose thinking. It requires many interactive sessions, the hands-on use of the device. You do not learn a foreign language from a book, rather you have to live in the country for year to let the langauge become an automatic part of you, and the same is true for computer languages.
 - James Lovelock (Originator of the Gaia Theory)
 
-
-M
 In the beginning we must simplify the subject, thus unavoidably falsifying it, and later we must sophisticate away the falsely simple beginning.
 - M. Maimonides
 
@@ -995,8 +975,6 @@ Computer science is to biology what calculus is to physics. It's the natural mat
 A little inaccuracy sometimes saves tons of explanation.
 - H.H. Munro
 
-
-N
 You have to honor failure, because failure is just the negative space around success.
 - R. Nelson (in Wired 06/2004 page 166)
 
@@ -1012,8 +990,6 @@ In mathematics you don't understand things. You just get used to them.
 Millions for compilers, but hardly a penny for understanding human programming language use. Now, programming languages are obviously symmetrical, the computer on one side, the human on the other. In an appropriate science of computer languages, one would expect that half the effort would be on the computer side, understanding how to translate the languages into executable form, and half on the human side, understanding how to design languages that are easy or productive to use. Yet, we do not even have an enumeration of all the psychologicial functions programing languages serve for the user. Of course, there is lots of programming language design, but it comes from computer scientists. And though technical papers on languages contain main appeals to ease of use and learning, they patently contain almost no psychologicial evidence nor any appeal to psychological science.
 - A. Newell and S. Card
 
-
-O
 There is no reason anyone would want a computer in their home.
 - K. Olsen (Founder and President, Digital Equipment Corporation), 1977
 
@@ -1023,8 +999,6 @@ The best performance improvement is the transition from the nonworking state to 
 Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration. ...[we should] explore and embrace techniques to reduce complexity.
 - R. Ozzie
 
-
-P
 As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.
 - D. Parnas
 
@@ -1165,9 +1139,6 @@ It won't do what I want it to,
     but only what I tell it.
 - Programmer's Lament
 
-
-Q
-R
 Given enough eyeballs, all bugs are shallow (e.g., given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone). (also see "The honest truth..." by B. Joy).
 - E. Raymond (Lesson 8 in The Cathedral and the Bazaar)
 
@@ -1204,8 +1175,6 @@ The highest reward for a person's toil is not what they get for it, but what the
 Language serves not only to express thought but to make possible thoughts which could not exist without it.
 - B. Russell
 
-
-S
 A designer knows he's achieved perfection not when there is nothing left to add, but when there is nothing left to take away.
 - A. de Saint-Exupery
 
@@ -1220,7 +1189,6 @@ There is one very good reason to learn programming, but it has nothing to do wit
 
 Always do the hard part first. If the hard part is impossible, why waste time on the easy part? Once the hard part is done, you're home free.
 Always do the easy part first. What you think at first is the easy part often turns out to be the hard part. Once the easy part is done, you can concentrate all your efforts on the hard part.
-
 - A. Schapira
 
 The skill of writing is to create a context in which other people can think.
@@ -1313,8 +1281,6 @@ In engineering, as in other creative arts, we must learn to do analysis to suppo
 It is a bad plan that admits of no modification.
 - P. Syrus
 
-
-T
 Once you succeed in writing the programs for [these] complicated algorithms, they usually run extremely fast. The computer doesn't need to understand the algorithm, its task is only to run the programs.
 - R. Tarjan
 
@@ -1333,13 +1299,9 @@ Unless in communicating with it [a computer] one says exactly what one means, tr
 We shall do a much better programming job, provided we approach the task with a full appreciation of its tremendous difficulty, provided that we respect the intrinsic limitations of the human mind and approach the task as very humble programmers.
 - A. Turing
 
-
-U
 He [John von Neumann] had the invaluable faculty of being able to take the most difficult problem and separate it into its components, whereupon everything looked brlliantly simple.
 - S. Ulam (Bull. of American Mathematical Society, May 1958)
 
-
-V
 It's easy to cry "bug" when the truth is that you've got a complex system and sometimes it takes a while to get all the components to co-exist peacefully.
 - D. Vargas
 
@@ -1352,8 +1314,6 @@ The best is the enemy of the good.
 Judge a man by his questions, rather than his answers.
 - Voltaire
 
-
-W
 The problem with using C++... is that there's already a strong tendancy in the language to require you to know everything before you can do anything.
 - L. Wall
 

@@ -1,8 +1,8 @@
-FROM registry.vipertv.net/viper/alpine:3.7
+FROM alpine
 
-ADD toy-server /toy-server
+ADD quote-server /quote-server
 ADD quotes.txt /quotes.txt
-RUN chmod +x toy-server
+RUN chmod +x quote-server
 EXPOSE 8080
 
-ENTRYPOINT ["/toy-server"]
+ENTRYPOINT ["/quote-server"]

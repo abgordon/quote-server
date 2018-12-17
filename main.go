@@ -22,7 +22,7 @@ func rootHandler(w http.ResponseWriter, r *http.Request) {
 func main() {
 	quotes, err = readall()
 	if err != nil {
-		quotes = []string{"no quotes today. Why don't you try again later?\n"}
+		quotes = []string{"Error loading quotes....\n"}
 	}
 	http.HandleFunc("/", rootHandler)
 	log.Fatal(http.ListenAndServe(":8080", nil))
