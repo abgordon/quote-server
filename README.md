@@ -1,6 +1,6 @@
 # Quote Server
 
-Quote server fills a need for interesting things to pop up when I open new terminal windows. I run this as a docker daemon so that it's always able to pull quotes when I open a new tab, edifying me in the process. And of course, you can keep the quote party going with `curl localhost:8080` whenever you see fit.
+Quote server fills a need for interesting things to pop up when I open new terminal windows. I run this as a docker daemon so that it's always able to pull quotes when I open a new tab, edifying me in the process. I can also keep the quote party going with `curl localhost:8080` whenever I see fit.
 
 And now, you can too! Simply add the contents of `bash.sh` to your bash profile of choice; i'm on mac, so I just added it to `~/.bash_profile`. And that's all there is to it! Just kidding, that's a lie. You'll need to install docker, as well.
 
