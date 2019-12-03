@@ -1395,3 +1395,611 @@ Who is wise? He who learns from all people...as it is said: "From all my teacher
 
 Each thing I do I rush through so I can do something else
 - Stephen King, Insomnia
+ The human hearing range spans 20Hz to 20kHz. (Christopher Montgomery)
+
+ "[W]e can use low rate 44.1kHz or 48kHz audio with all the fidelity benefits of 192kHz or higher sampling (smooth frequency response, low aliasing) and none of the drawbacks (ultrasonics that cause intermodulation distortion, wasted space). Nearly all of today's analog-to-digital converters (ADCs) and digital-to-analog converters (DACs) oversample at very high rates." (Christopher Montgomery)
+
+ "[T]here are (and always will be) reasons to use more than 16 bits in recording and production. None of that is relevant to playback; here 24 bit audio is as useless as 192kHz sampling. The good news is that at least 24 bit depth doesn't harm fidelity. It just doesn't help, and also wastes space." (Christopher Montgomery)
+
+ "16 bits is enough to span the real hearing range with room to spare. It does not span the entire possible signal range of audio equipment." (Christopher Montgomery)
+
+ "Music is no longer an expression of the soul or the work of an artist; it's a 'product' that is manufactured, packaged, catalogued, distributed, managed, regulated, and above all *sold*." (Christopher Montgomery)
+
+ By November 1992, there were 26 websites in the world, and the web's domain was mainly academia and large industrial research institutions.
+
+ The Mosaic browser was released in 1993, developed at the National Center for Supercomputing Applications (NCSA). It included buttons like "Home", "Back" and "Forward", as well as bookmark features and image rendering (GIF or HDF). Marc Andreessen was part of the developing team.
+
+ Mosaic and derived browsers drove the explosive growth of the Web to over 10,000 sites by 1995 and millions by 1998.
+
+ Marc Andreessen and Eric Bina left the Mosaic team in 1994 to found Netscape, releasing the new browser Netscape Navigator, with its internal code name "Mozilla". The name was either a blending of "Mosaic" and "Godzilla" or short for "Mosaic Killer".
+
+ Netscape called itself `Mozilla/1.0` in the user-agent string, and it came with new features such as frame support. Website developers invented browser sniffing and sent frames to Netscape and no frames to other browsers.
+
+ When Microsoft launched Internet Explorer, which supported frames as well, they made the browser impersonate Netscape as `Mozilla/1.22 (compatible; MSIE 2.0)` so that it received frames as well.
+
+ In the first "browser war", Internet Explorer defeated Netscape.
+
+ Netscape was reborn as Mozilla, later Firefox, with its Gecko rendering engine. Again due to browser sniffing by website developers, other browsers started adding "Gecko" to their user-agent string.
+
+ "Google built Chrome, and Chrome used Webkit, and it was like Safari, [...] and WebKit pretended to be KHTML, and KHTML pretended to be Gecko, and all browsers pretended to be Mozilla, [...] and the user agent string was a complete mess, and near useless, and everyone pretended to be everyone else." (Aaron Andersen)
+
+ Never talk to potential acquirers of your company just for the sake of checking whether you'll receive an offer to good to refuse.
+
+ When receiving offers from potential acquirers, expect a reasonable valuation. Should they ever be surprising, they'll always be surprisingly low.
+
+ When you receive an offer for a potential acquisition, let the acquirer make the effort, which they will certainly do in case they're really serious.
+
+ A good salesman is never the one to come up with a price first. Try to be the one reacting to the price, not the one proposing it.
+
+ If you're in talks about selling your company and you must come up with a valuation, put it out confidently and high enough for bargaining.
+
+ Get a good lawyer.
+
+ Get a good accountant.
+
+ As the buyer of a company, you'll usually prefer an asset sale, whereas as a seller, you'll probably want a stock sale.
+
+ Sole proprietorships or partnerships cannot be sold as a stock sale, as there is no stock available.
+
+ When selling a company, always keep your business running and growing until it's really not your job anymore.
+
+ "A complex system that works is invariably found to have evolved from a simple system that works." (John Gall)
+
+ Advertising is like the flu. If it's not constantly changing, people develop immunity.
+
+ "Sizing the market for a disruptor based on an incumbent's market is like sizing the car industry off how many horses there were in 1910." (Aaron Levie)
+
+ Don't compare your company to a family -- it's not a lifetime relationship and layoffs are part of the game. You shouldn't (and can't) trust in loyalty blindly.
+
+ Consider your company a professional sports teams: You have a mission and come together with other people to accomplish that mission. The composition of your team changes over time, but your solidarity is based on trust and mutual investment, which results in mutual benefit. All of you have to prioritize team success over individual glory and yet this is the best way to achieve individual success as well. You are going to bring together a disparate team and achieve a common goal -- despite the reality of personnel turnover. That's what all businesses should strive for. (Reid Hoffman, Ben Casnocha, Chris Yeh)
+
+ The main driver of inequality is returns on capital that exceed the rate of economic growth. (Thomas Piketty)
+
+ "Design depends largely on constraints. [O]ne of the few effective keys to the design problem [is] the ability of the designer to recognize as many of the constraints as possible — his willingness and enthusiasm for working within these constraints." (Charles Eames)
+
+ Project management triangle: Fast, cheap, and reliable — choose two. That's all you can get.
+
+ Incentivizing the right behaviors is incredibly important. Rewarding managers with bonuses if their features are part of a final product, for example, can lead to feature bloat. Don't do that.
+
+ "[W]hile manipulating people with incentives seems to work in the short run, it is a strategy that ultimately fails and even does lasting harm. [We should] question our reliance on a theory of motivation derived from laboratory animals." (Alfie Kohn)
+
+ "[T]he more we use artificial inducements to motivate people, the more they lose interest in what we're bribing them to do." (Alfie Kohn)
+
+ "Start with focusing on a small market and dominate that market first." (Peter Thiel)
+
+ "If you don't want to split shares evenly then perhaps you should not be co-founders." (Peter Thiel)
+
+ "I am [...] a fan of the two-person founding team, with one more on the business side and one more on the technical side." (Peter Thiel)
+
+ "We know well [Alibaba hasn't] survived because our strategies are farsighted and brilliant, or because our execution is perfect, but because for 15 years we have persevered in our mission of 'making it easier to do business across the world', because we have insisted on a 'customer first' value system, because we have persisted in believing in the future, and because we have insisted that normal people can do extraordinary things." (Jack Ma)
+
+ The only way to fight knowledge-hiding in the workplace? "Put in incentives to reward people on team outcomes versus solely on individual outcomes." (David Zweig)
+
+ "First-time founders care most about their exit. Every time after that, you focus on legacy." (Unknown)
+
+ "Culture eats strategy for breakfast." (Peter Drucker)
+
+ "Saying yes is so much easier than saying no, but nobody else will ever value your time as much as you do so you need to be a responsible steward of it." (Andrew Bosworth)
+
+ "Look back on your past week and assemble an honest accounting of your attention. Does the time you spent in each area mirror the importance of that area? This exercise is the true test of your ability to prioritize. It will tell you whether you are able to maintain focus on the important or whether you get distracted by the urgent." (Andrew Bosworth)
+
+ In 2014, social media (e.g. Facebook, Twitter) had already become a mature market with little innovation. Private messaging (e.g. WhatsApp, Snapchat) was the new social media.
+
+ The "sharing economy" turned out to be the "rental economy", actually.
+
+ "If you don't have first hand experience of an industry, you're probably wrong about how it works, what problems they have and so how they should be solved. Talk to people." (Ben Dixon)
+
+ "Trying to raise money and apply to accelerators is a full time job. You're probably either building [a product] or fund raising. Not both. If in doubt, choose building." (Ben Dixon)
+
+ Providing free returns to customers in e-commerce has proved profitable. Customers who make use of a free return are far more likely to buy again in the same shop the next time. This easily compensates for the costs of the free return.
+
+ "[P]art of the problem with freemium is that it changes your perception of where the value lies. The user discounts the value of the free component to nothing and only measures the value of the additional functionality that is unlocked with buying the premium portion. A lot of the time, this looks like a ripoff." (scriptman)
+
+ It's easier to lower the price when you don't sell enough than to raise the price on something that is selling well.
+
+ "[A]s far as equity is concerned, it's worth $0 until you exit. There's a potential for millions, but my lottery ticket is also worth potentially millions of dollars. My landlord won't accept my lottery ticket as payment." (Jemaclus)
+
+ "So one way to insider trade is, you work at a bank, and you advise on mergers, and before a merger happens you meet a guy and write the name of the target on a napkin, and the guy reads the napkin, and then he eats it, and then he buys stock in the target, and he makes money, and then you meet in a parking lot and he hands you a bag of cash representing your cut of his profits. There are a lot of variations, many involving golf, but that's the basic structure." (Matt Levine)
+
+ "I swear to you, sitting a throne is a thousand times harder than winning one." (George R. R. Martin)
+
+ Show confidence, professionalism and competence in your response to the salary question.
+
+ Do not lie in response to the salary question. Do not invent any high salary. Be honest and only *withhold* information.
+
+ Perhaps suggest to get back to the salary question later on, after you've both made sure you're a good fit for each other. If you're the right fit, you'll probably be able to agree on the numbers regarding salary, vacation days and so on. Otherwise, you don't need to worry about the numbers, anyway. They are irrelevant.
+
+ The later in the process you talk about the salary, the better. They will offer and accept higher salaries *after* learning about your skill level, as opposed to the time *before*. Otherwise, you might not even get a chance anymore to demonstrate your strengths.
+
+ If you actually give a number as a response to the salary question, this will immediately cap your range for the negotiation. That means you'll lose out on any higher salary that they might have been willing to offer. So don't do this. *Never* give a number first.
+
+ You might answer that you're not comfortable sharing the requested information and that you'd rather want to focus on the value you might add to the company.
+
+ If they say they need a number in order to move the process forward, they're just lying to you in order to compromise your negotiating position.
+
+ Saying that you want to make a (big) step forward both in terms of responsibility and compensation signals that you're willing to perform (even) better than before and accomplish more, but also want proportionately better compensation.
+
+ Illustrate that only *they* know how they value your skills, how much they pay other people at their company, what their company's needs are, and how much value you'll be adding to their company. So they should suggest a base for the negotiations.
+
+ Explain that they might give you a number and you'll happily tell them whether this is in your accepted range or not.
+
+ Say that you *trust* them to give you a fair offer that is consistent with their standard practices and general compensation in the industry.
+
+ Continue to block requests for a specific number or range, even if they keep pressing you on that number.
+
+ Prior to the negotiation, you should have thought about your minimum acceptable salary. Now, do *not* accept any offer below that number.
+
+ After receiving your first offer from the company, *no matter what number it is*, you're going to negotiate upwards. It's unlikely they have just given you their absolute maximum initially. You *always*, as a matter of policy, negotiate *all* offers.
+
+ Negotiate all the single components of the compensation (e.g. also the vacation days) to get the best possible outcome.
+
+ If they decline to negotiate a single component, you might ask where they suggest there is any flexibility, given that there doesn't seem to be any flexibility on that one component.
+
+ As soon as you have a formal offer, ask for one or two days to think about it.
+
+ "The most important process underlying strokes of creative genius is cognitive disinhibition — the tendency to pay attention to things that normally should be ignored or filtered out by attention because they appear irrelevant." (Dean Keith Simonton)
+
+ "When Alexander Fleming noticed that a blue mold was killing off the bacteria culture in his petri dish, he could have just tossed the latter into the autoclave like any of his colleagues might have done. Instead, Fleming won the Nobel Prize for his discovery of penicillin, the antibacterial agent derived from the mold *Penicillium notatum*." (Dean Keith Simonton)
+
+ "We have an industrial society that is based on the use of machines and technology, which serve to economize on labor. It would be logical that we should have to work less because we can have all of our needs satisfied with a minimum amount of activity. But what takes place is just the opposite. Today we work much more than ever before." (Anselm Jappe)
+
+ "The great innovations of the past are *now* well understood as being very, very important. It's very obvious. In almost every case, they were not widely understood as such at the time. In fact, I would assert that they were often actually viewed as trivialities or jokes. I don't think it is a new phenomenon to be this dismissive about new technology." (Marc Andreessen)
+
+ "When Thomas Edison was first working on the telephone, the assumption of the use case was the idea that telegraph operators needed to be able to talk to each other. It was considered so implausible that you would have a system that would let any ordinary person pick up the telephone and talk to another person, like that was clearly implausible, that was clearly not going to happen." (Marc Andreessen)
+
+ "It's hard to remember, but the Internet was laughed at. It was heaped with scorn from 1993 to 1997/1998. In fact, those of you who were in the industry at that time will remember that the New York Times had a reporter on staff named Peter Lewis. I'm convinced he was hired by the editors to just write negative stories about the Internet. It was all he did. And it was always 'the Internet is never going to be a consumer medium, the Internet is not nearly as big as these people think, nobody is ever going to trust the Internet for e-commerce." (Marc Andreessen)
+
+ "The car was absolutely viewed as a triviality and a toy when it first emerged. In fact, J.P. Morgan himself refused to invest in Ford Motor Company, with the response that it's 'just a toy for rich people', which is in fact what it was at the time. If you had one of the first cars, you had to be a rich person, which means you also had to have a driver, unless you were a very advanced rich person. You also had to have a stoker with the early cars to keep the engine going, and then you also had to travel with a full-time mechanic cause the thing would break down every three miles. So there were a lot of reasons to doubt the importance of the car." (Marc Andreessen)
+
+ "We have a large computer rust belt, which nobody likes to talk about, but it is companies like Cisco, Dell, Hewlett Packard, Oracle, IBM, where I think the pattern will be to become commodities, no longer innovate, corresspondingly cut their labor force, and cut their profits in the decade ahead." (Peter Thiel)
+
+ "Twitter is instant public global messaging for free. If you think about the impact of that, if you go back into any previous era, the era of telegraphs, the era of telephones, the era of television, and you tell that instead of having the communication technologies you have at the time, I can give you instant public global messaging for free, they would have thought you delivered it straight from heaven, like its the most astonishing communications breakthrough they could have possibly imagined. And we actually have it, and it actually works." (Marc Andreessen)
+
+ The technology-driven economy greatly favors a small group of successful individuals by amplifying their talent and luck, and dramatically increasing their rewards. (Erik Brynjolfsson)
+
+ "Agatha Christie never imagined being rich enough to own a car or poor enough to have no servants. Profound example of tech and social change." (Benedict Evans)
+
+ "Education is the most powerful thing you can do to affect lifetime earnings." (David Autor)
+
+ Once you've produced a certain product, the cost of making additional copies (marginal cost) tends to zero.
+
+ Advertising allows you to give away your complete product to consumers for free while generating revenue from third parties who purchase ads that are shown to the audience. This has always been a popular business model for radio, TV and the web.
+
+ Tiered pricing allows you to give away some products for free and conversely set higher prices for other parts of the portfolio. Examples for this model include coupons and the freemium model.
+
+ When you bundle products that each individually have almost zero marginal cost, you can sell the whole package as a unit that's worth paying for. For example, movie streaming sites such as Netflix package individual films and series (with very low marginal costs) into a subscription that's worth paying for.
+
+ Larger companies can make single products free to support their overall ecosystem. For example, Google and Apple subsidize their ecosystems with free GPS tools such as maps and navigation.
+
+ Net neutrality prevents "a transformation from a market where innovation rules to one where deal-making rules. Or, a market where firms rush to make exclusive agreements with AT&T and Verizon instead of trying to improve their products." (Tim Wu)
+
+ Regarding net neutrality, "let's think about the nation's highways. How would you feel if [they] announced an exclusive deal with General Motors to provide a special 'rush-hour' lane for GM cars only? That seems intuitively wrong. [...] And if highways really did choose favorite brands, you might buy a Pontiac instead of a Toyota to get the rush-hour lane, not because the Pontiac is actually a good car. As a result, the nature of competition among car-makers would change. Rather than try to make the best product, they would battle to make deals with highways." (Tim Wu)
+
+ "[T]he 700-person start-up Airbnb, which allows users to rent their apartments like hotel rooms, was valued at $10 billion this past spring, about half as much as the Hilton corporation, which employs 152,000 people." (Michael Harris)
+
+ "We are deeply concerned [...] of the very large number of dropouts by schoolchildren. This is a very disturbing situation, because the youth of today are the leaders of tomorrow. Try as much as possible to remain in school, because education is the most powerful weapon which we can use." (Nelson Mandela)
+
+ Don't try to have your children occupied at any time. Boredom is an important source of creativity.
+
+ Teach self control and discipline in as many positive ways as possible.
+
+ Don't try to remove any bit of struggle in your children's life. They need it to grow. When all their toys are always within their reach, why should they start to crawl?
+
+ "[Parents and teachers] often praise the ability, the talent, or the intelligence too much. The opposite of this is the good process praise. This is praise for the process the child engages in — their hard work, trying many strategies, their focus, their perseverance, their use of errors to learn, their improvement. [...] The more [you give] process praise, the more [do] kids ha[ve] a growth mindset and a desire for challenge [...]." (Carol Dweck)
+
+ While earlier (nickel-based) batteries improved from full draining, newer (lithium-ion based) batteries suffer from that.
+
+ Never let your lithium-ion fully drain. Try to have the battery level above 20% at any time, if possible.
+
+ In the past, an Ethernet crossover cable (twisted pairs) was necessary in order to connect computing devices (of the same type) directly. Today, Auto MDI-X detects the required connection type via autonegotiation.
+
+ Modern (photo)copiers (i.e. digital copiers) have hard disks. In order to copy documents, they scan them first, save them on the hard disk and then print them. In most cases, the copy on the hard disk is either permanent or can be easily recovered later.
+
+ When using a digital camera to take a photo of a digital screen (e.g. TV, computer), you'll usually see a moiré pattern. This unwanted effect is caused by interactions between the pixel grids of the screen and the camera sensors.
+
+ Energy density in modern batteries increases by about five percent per year through incremental improvements from R&D.
+
+ The expression 'more than Moore' refers to the integration of more than just transistors on a chip. One is putting other components on the chips, e.g. analogue components and radio circuits, eclipsing in a system-on-a-chip (SoC).
+
+ Changing a monitor's resolution from its "native" resolution to something else was fine with CRTs, but cannot reasonably be done with LCDs, where it would result in bad picure quality due to their fixed rasters.
+
+ UHD (or 4K) is only worth it if you have a *very* large TV screen (larger than most people would be comfortable with in their room), if you sit very close (which you usually do in a presentation room but not at home). Obviously, all components (video source, connections and TV screen) must support UHD.
+
+ At a distance of 10 cm, the maximum resolution that the human eye can perceive is between 876 dpi/ppi (normal visual acuity) and 2190 dpi/ppi (perfect visual acuity). Thus at the average reading distance of 30 cm, it's only 292 dpi/ppi (normal visual acuity) or 730 dpi/ppi (perfect visual acuity). So printing magazines at 300 dpi is good enough for most people. For computer monitors or TVs at home, divide 88 dpi/ppi (normal visual acuity) or 219 dpi/ppi (perfect visual acuity) by the distance in meters to get the maximum resolution you may actually perceive. Thus, in order to take the most of Full HD on a 50" screen, you'll need to sit 2 m away. For 4K resolution, you must move closer to 1 m or get a 100" screen instead.
+
+ When including links in emails (or other texts), wrap them in angle brackets (`<...>`). This emphasizes where the link starts/ends, and it avoids problems with line wraps and trailing equals signs (`=`) in various client applications.
+
+ You don't need to use antibacterial soap at home. Normal soap is just as effective as antibacterial one (almost) and has no disadvantages.
+
+ Your vision does not worsen if you wear (incorrectly adjusted) glasses, but wrong glasses can cause headaches and visual fatigue.
+
+ Your vision does not worsen if you read with too little light, for example. But bad habits can cause headaches and visual fatigue.
+
+ Underarm hair does not cause you to sweat more, but it provides the bacteria with a bigger target, possibly resulting in stronger odor.
+
+ It's not fresh sweat that smells, but older sweat where the bacteria start to cause more and more odor.
+
+ If you have shingles (herpes zoster), see a doctor within 48-72 hours, who will usually give you aciclovir (and paracetamol).
+
+ "Sensations (information delivered by organs like our eyes) can be distinct from perceptions (ideas about sensations formed by our brains)." (Jim Davies)
+
+ "Just as blind people do not sense the color black, we do not sense anything at all in place of our lack of sensations for magnetic fields [unlike geese/birds] or ultraviolet light. [...] When you look at the scene in front of you, it has a boundary. Your visual field extends to each side only so far. If you spread your arms, and draw your hands back until they are no longer visible, [...] [t]his space does not look black. It does not look white. It just isn't." (Jim Davies)
+
+ Exercising makes you emotionally resilient and reduces your risk of getting depression. This is due to raised levels of PGC-1alpha1, producing a substance that breaks down kynurenine.
+
+ There are two ways you can improve your endurance performance: Increasing your oxygen supply (VO2 max) or lowering the oxygen demand by your muscles (running economy). Supply more and demand less.
+
+ "Any patient in a hospital, when we take their clothes away and lay them in a bed, starts to lose identity; after a few days, they all start to merge into a single passive body, distinguishable ... only by the illnesses that brought them there." (Terrence Holt)
+
+ Drinking lots of coffee on a regular basis won't enhance your mental performance. Part of the problem with caffeine is we quickly develop dependency. "Regular caffeine consumers who'd been without caffeine overnight, [are] slower on [a] reaction time task, [are] sleepier and [are] less mentally alert than non-users." They [...] improve after they [get] a caffeine drink, but only up to the level the non-users [achieve] without caffeine. (Peter Rogers)
+
+ "With [so many] office workers in cubicles or open work spaces, it's [...] important to create one's own cocoon of sound. That brings us to a psychological answer: There is evidence that music relaxes our muscles, improves our mood, and can even moderately reduce blood pressure, heart rate, and anxiety. What music steals in acute concentration, it returns to us in the form of good vibes." (Derek Thompson)
+
+ "Seating people with their backs to a high-traffic area leads to a constant sense of unease and vulnerability." (Matt Blodgett)
+
+ If you listen to music with earbuds or headphones at levels that block out normal discourse, you are in effect dealing lethal blows to the hair cells in your ears. (Dr. Michael D. Seidman)
+
+ "Drowning doesn't look like drowning" (Mario Vittone): "Except in rare circumstances, drowning people are physiologically unable to call out for help. The respiratory system was designed for breathing. Speech is the secondary or overlaid function. Breathing must be fulfilled, before speech occurs. [...] Drowning people cannot wave for help. Nature instinctively forces them to extend their arms laterally and press down on the water’s surface. Pressing down on the surface of the water, permits drowning people to leverage their bodies so they can lift their mouths out of the water to breathe. [...] From beginning to end of the Instinctive Drowning Response people’s bodies remain upright in the water, with no evidence of a supporting kick. Unless rescued by a trained lifeguard, these drowning people can only struggle on the surface of the water from 20 to 60 seconds before submersion occurs." (On Scene Magazine - Fall 2006) Drowning people "[a]ppear to be climbing an invisible ladder" (Mario Vittone).
+
+ Hairs around the belly button steal tiny fibres from clothes and deposit them into the navel where they accumulate as "navel fluff". Shaving belly hair prevents the accumulation of that lint.
+
+ “Most adults function best after seven to nine hours of sleep a night. [...] When we get fewer than seven hours, we’re impaired (to degrees that vary from person to person). When sleep persistently falls below six hours per 24, we are at an increased risk of health problems.” (James Hamblin)
+
+ “[W]hen animals are sleep-deprived constantly, they will suffer serious biological consequences. Death is one of those consequences.” (David Dinges)
+
+ “[R]esearchers kept people just slightly sleep deprived – allowing them only six hours to sleep each night – and watched the subjects’ performance on cognitive tests plummet. The crucial finding was that throughout their time in the study, the sixers thought they were functioning perfectly well.” (James Hamblin)
+
+ “Thanks to caffeine, many of us stimulate [a] fight-or-flight response not just occasionally, under dire circumstances, but daily, in our offices.” (James Hamblin)
+
+ "The familiar Ancient Greek and Roman statues were not the grey, stone figures we know today. They were actually painted in bright colours and inlaid with jewels." (James Robertson)
+
+ "Egyptian pyramids have [not] remained the way they were at the time of their construction. Actually, their outside was made of white limestone, which concealed the layer of bricks underneath." (Saarthak Jajoria)
+
+ The Anglicised name prefixes "Mc" and "Mac" mean "son (of)" while the prefix "O'" means "descendant (of)" or "grandson (of)".
+
+ In order to prevent mold formation in your dishwasher, it's sufficient to run the dishwasher on a temperature of 60°C or more twice a month. This does also eliminate grease and fat residues.
+
+ Copyright protects the expression of an idea, not the idea itself. The idea itself may be protected through patents.
+
+ "The idea that I can be presented with a problem, set out to logically solve it with the tools at hand, and wind up with a program that could not be legally used because someone else followed the same logical steps some years ago and filed for a patent on it is horrifying." (John Carmack)
+
+ "If we don't believe in freedom of expression for people we despise, we don't believe in it at all." (Noam Chomsky)
+
+ "[Copyright] [r]egistration does offer some significant benefits [...]. But it is not required in order for you to mark your proprietary works of authorship with the appropriate notice. [Even] [t]he notice is not required in order to have protection. However, the notice [...] puts others on notice that you claim protection [of] a particular work. Once a party is on notice of your claim, they can be liable for wilful infringement and treble damages. Copyright in the US and most of the world is automatic upon fixation of an original work of authorship in a tangible medium of expression." (Robert B. Dellenbach)
+
+ The case Oracle v. Google has been about copyright and patent claims, where Oracle argues that Google infringed by copying the Java API. In May 2012, a United States District Court decided that Google did not infringe. Judge William Haskell Alsup started learning Java solely for the purpose of getting a better understanding of the case. The Circuit Court then, however, reversed the decision in May 2014, finding that Google *did* infringe on Oracle's Java API. In October 2014, Google then asked the U.S. Supreme Court to decide the copyright fight.
+
+ Surround yourself with smart and inspiring people, and if you're the smartest person in the room, maybe it's time to move on.
+
+ Don't promise when you're happy. Don't reply when you're angry. Don't decide when you're sad.
+
+ Nothing is worth more than your personal health. Live a healthy lifestyle, and go to annual check-ups if possible.
+
+ Get enough sleep every night. Sleep is really important to so many facets in life, be it regeneration, attentiveness or physical health.
+
+ Getting up 15-30 minutes earlier every morning is not that much, but the effect on your available time in the morning is great!
+
+ Don't waste any time on jealousy.
+
+ What other people think about you is none of your business.
+
+ Don't be afraid to ask someone if you're not sure, no matter what topic, what time or place.
+
+ Finish one project before you start another.
+
+ Smile often, even to complete strangers.
+
+ Apologize when you should.
+
+ Be curious. This is certainly more important than just being intelligent.
+
+ Either at work or in your freetime, do something that makes you proud.
+
+ "I can accept failure, everyone fails at something. But I can't accept not trying." (Michael Jordan)
+
+ Make peace with your past so it won't disturb your present.
+
+ Don't compare your life to others'.
+
+ Don't text with your mobile phone when you're drunk.
+
+ "A ship is safe in harbor, but that's not what ships are for." (William G. T. Shedd)
+
+ A calm sea does not make a skilled sailor.
+
+ "People will forget what you said, people will forget what you did, but people will never forget how you made them feel." (Maya Angelou)
+
+ "Man cannot discover new oceans unless he has the courage to lose sight of the shore." (André Gide)
+
+ "Be yourself; everyone else is already taken." (Oscar Wilde)
+
+ "No one can make you feel inferior without your consent." (Eleanor Roosevelt)
+
+ "Be the change you want to see in the world." (Mahatma Gandhi)
+
+ Success is like being pregnant, everybody congratulates you, but nobody knows how many times you have been fucked.
+
+ "Many of life's failures are people who did not realize how close they were to success when they gave up." (Thomas Edison)
+
+ "Everyone can be taught to sculpt: Michelangelo would have had to be taught not to. So it is with great people in all fields." (Unknown)
+
+ "Count your blessings, not your troubles." (Dale Carnegie)
+
+ "Man only likes to count his troubles, but he does not count his joys." (Fyodor Dosteoevsky)
+
+ "Give a man a fish, and you feed him for a day; show him how to catch fish, and you feed him for a lifetime." (Proverb)
+
+ "I always wonder why birds stay in the same place when they can fly anywhere. Then I ask myself the same question." (Harun Yahya)
+
+ "People become what they believe themselves to be. If I believe I can't do something, it makes me incapable of doing it." (Mahatma Gandhi)
+
+ "You can't connect the dots looking forward; you can only connect them looking backwards." (Steve Jobs)
+
+ "Monotony collapses time; novelty unfolds it." (Joshua Foer)
+
+ "Creating new memories stretches out psychological time, and lengthens our perception of our lives." (Joshua Foer)
+
+ Journalistic principle: If a (newspaper) headline asks a question, the answer is usually 'no'. (Andrew Marr)
+
+ "I am a great believer in luck, and I find the harder I work, the more I have of it." (Thomas Jefferson)
+
+ When you are teaching or explaining something, never say "just do" or "it's easy". It's confusing and alienating to new learners.
+
+ "Opportunists have always been held in disrepute -- especially by those who had the same opportunities and didn't take them." (Rhett Butler)
+
+ "The journey of a thousand miles begins with a single step." (Laozi)
+
+ "Determination is really two separate things: resilience and drive. Resilience keeps you from being pushed backwards. Drive moves you forwards." (Jessica Livingston)
+
+ "[W]e see our future selves as strangers. Though we will inevitably share their fates, the people we will become in a decade, quarter century, or more, are unknown to us. This impedes our ability to make good choices on their — which of course is our own—behalf. [...] We might choose to procrastinate, and let some other version of our self deal with problems or chores. Or, as in the case of [a] smoking boy, we can focus on that version of our self that derives pleasure, and ignore the one that pays the price." (Alisa Opar)
+
+ "Part of being optimistic is keeping one's head pointed toward the sun, one's feet moving forward. [...] I would not and could not give myself up to despair. That way lays defeat and death." (Nelson Mandela)
+
+ "I learned that courage was not the absence of fear, but the triumph over it." (Nelson Mandela)
+
+ "The greatest glory in living lies not in never falling, but in rising every time we fall." (Nelson Mandela)
+
+ "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered." (Nelson Mandela)
+
+ "The first step isn't as hard as we make it out to be. ['Just do it']. Stop over-thinking it." (Jon Bell)
+
+ McDonald's Theory: "[W]hen we're trying to decide where to eat for lunch and no one has any ideas, I recommend McDonald's. An interesting thing happens. Everyone unanimously agrees that we can't possibly go to McDonald's, and better lunch suggestions emerge. [...] It's as if we've broken the ice with the worst possible idea. [...] [P]eople are inspired to come up with good ideas to ward off bad ones. [...] The second step is easier than the first." (Jon Bell)
+
+ "Wise men learn more from fools than fools from the wise." (Cato the Elder)
+
+ "Have the argument clear in your mind; the words will follow naturally." (Cato the Elder)
+
+ "We pave the sunlit path toward justice together, brick by brick." (Tim Cook)
+
+ "In the realm of ideas everything depends on enthusiasm ... in the real world all rests on perseverance." (Johann Wolfgang von Goethe)
+
+ "Perseverance is the hard work you do after you get tired of doing the hard work you already did." (Newt Gingrich)
+
+ "Perseverance is failing 19 times and succeeding the 20th." (Julie Andrews)
+
+ "No one succeeds without effort ... Those who succeed owe their success to perseverance." (Ramana Maharshi)
+
+ "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." (Antoine de Saint-Exupéry)
+
+ Learn to distrust your negative emotions. Later, they usually seem overstated or unfounded. (Giovanni Tirloni)
+
+ "You work in the sales department of your own career. Sell your ability to solve problems." (duggan)
+
+ "Don't spend your precious time asking 'Why isn't the world a better place?'. It will only be time wasted. The question to ask is 'How can I make it better?' To that there is an answer." (Leo Buscaglia)
+
+ "Don't cry because it's over, smile because it happened." (Theodor "Dr. Seuss" Seuss Geisel)
+
+ "The greater part of human activity is designed to make permanent those experiences and joys which are only lovable because they are changing." (Alan Watts)
+
+ "The only way to make sense out of change is to plunge into it, move with it, and join the dance." (Alan Watts)
+
+ "A person who thinks all the time has nothing to think about except thoughts. So he loses touch with reality, and lives in a world of illusion." (Alan Watts)
+
+ "Existence, [Alan Watts] says, is fundamentally *playful*. It's less like a journey, and more like a piece of music or a dance. And the point of dancing isn't to arrive at a particular spot on the floor; the point of dancing is simply to dance." (Kevin Simler)
+
+ "I always thought of myself as a humanities person as a kid, but I liked electronics ... then I read something that one of my heroes, Edwin Land of Polaroid, said about the importance of people who could stand at the intersection of humanities and sciences, and I decided that's what I wanted to do." (Steve Jobs)
+
+ "Before cofounding GitHub I applied for an engineering job at Yahoo and didn't get it. Don't let other people discourage you." (Chris Wanstrath)
+
+ Survivorship bias, a type of selection bias, is the error of concentrating on subjects that "survived" some process or selection and thereby overlooking all the others due to their lack of visibility.
+
+ If you believe that music in the past was better than today's music, it may be because only the most popular music from one generation "survives" and, in a form of survivorship bias, distorts the comparability for you.
+
+ In the area of highly competitive careers (e.g. with singers, movie stars and athletes), one does generally overlook the myriad of people that may have been similarly skilled and determined as the victorious ones, but who did ultimately fail because they were not as lucky. This causes a survivorship bias.
+
+ "Once you've accepted your flaws, no one can use them against you." (George R. R. Martin)
+
+ "A bruise is a lesson ... and each lesson makes us better." (George R. R. Martin)
+
+ "We shouldn't be looking for heroes, we should be looking for good ideas." (Noam Chomsky)
+
+ "[As an astronaut, you] develop an instant global consciousness, a people orientation, an intense dissatisfaction with the state of the world, and a compulsion to do something about it. From out there on the moon, international politics look so petty. You want to grab a politician by the scruff of the neck and drag him a quarter of a million miles out and say, 'Look at that, you son of a bitch'." (Edgar D. Mitchell)
+
+ "Adulthood is emailing 'sorry for the delayed response!' back and forth until one of you dies." (Marissa Miller)
+
+ "Inherit (or luck into) a large fortune, and give a couple million to a good cause -- never mind that it will affect your quality of life not at all -- and you'll be lionized as a hero. The great and the good will invite you onto their podiums -- but a poor person who takes in a foster kid gets virtually no recognition, even if fostering involves real sacrifice on their part." (Cory Doctorow)
+
+ "Don't forget that most men with nothing would rather protect the possibility of becoming rich than face the reality of being poor." (John Dickinson ("1776"))
+
+ "Meritocracy is a tautology, of course. There's no objective measure of *merit* so there's no way to know whether your society is meritocratic or not. Every famous, powerful, rich person owes their status to a combination of skill, luck, and persistence. The best luck of all is to be born to fortunate circumstances, well fed and well educated and well loved. We know for a fact that billions lack some or all of these forms of luck, and among those people are innumerable potential Stephen Hawkings and Steve Jobses and Albert Einsteins. The fact that Jobs was born to a Syrian refugee and that Hawking struggles with a debilitating illness just shows you how fickle luck is -- unless you believe that evolution produced exactly one brilliant tech entrepreneur in the ranks of Syrian refugees and one brilliant scientist with ALS, then you have to believe that the others just didn't get quite so lucky." (Cory Doctorow)
+
+ The "Rule of 72" allows you to estimate the effect of growth rates: Divide `72` by the growth rate as an integer (i.e. the actual rate multiplied by `100`) and you'll get the number of years it takes the base quantity to double.
+
+ It's easy to complain, blame, resent, judge and take. It's hard to inspire, teach, trust, love and believe. Do the hard work. (Vala Afshar)
+
+ "Service is supposed to be about making the world a better place or helping people who are less fortunate, but [when] it's done for the resume, it really just becomes about yourself." (William Deresiewicz)
+
+ "The bitterness of poor quality remains long after the sweetness of low price is forgotten." (Unknown)
+
+ If you can't pay cash, you can't afford it.
+
+ "[W]ages and income are about what the job is worth, not the individual. [...] Your income potential isn't about what you need or what the employer can afford; it's about the value of what you do." (Ron Rule)
+
+ The world's most famous photo is (arguably) "Guerrillero Heroico" by Alberto Korda from 1960, showing the then 31-year-old revolutionary Che Guevara. The photographer did not receive (or claim) any payments for his picture, which also helped the photo become so popular.
+
+ "A showrunner's duties often combine those traditionally assigned to the writer, executive producer and script editor. Unlike films, where directors are in creative control of a production, in episodic television, the showrunner outranks the director." (Wikipedia, various authors)
+
+ While Spotify doesn't pay owners of recordings, publishers, songwriters and artists *per stream*, an effective "per stream" average can be calculated. It's between 5.00 USD and 8.00 USD per 1,000 streams.
+
+ "Rihanna is often described as a 'manufactured' pop star, because she doesn't write her songs, but neither did Sinatra or Elvis. She embodies a song in the way an actor inhabits a role -- and no one expects the actor to write the script." (John Seabrook)
+
+ Depending on the type of ads shown (e.g. pre-roll or banner ads), whether ads are paid for on a per-click (CPC) or per-view (CPM) basis, and depending on the audience (e.g. demographics and geographical origin), YouTube videos can, on average, generate between 0.80 USD and 5.00 USD of revenue per 1,000 views for users.
+
+ "The contention of Frantz Fanon, the 20th century revolutionary, [was] that 'the aim of terrorism is to terrify'. How do the media help do that? By hyping the threat from terrorism." (David R. Henderson)
+
+ "The current system of ad-supported news leads to clickbait and sensationalism. We need to pay for good journalism." (Andrew Ng)
+
+ "A critical, independent and investigative press is the lifeblood of any democracy. The press must be free from state interference. It must have the economic strength to stand up to the blandishments of government officials. It must have sufficient independence from vested interests to be bold and inquiring without fear or favour. It must enjoy the protection of the constitution, so that it can protect our rights as citizens." (Nelson Mandela)
+
+ "'Socialism' is no more an evil word than 'Christianity'. Socialism no more prescribed Joseph Stalin and his secret police and shuttered churches than Christianity prescribed the Spanish Inquisition. Christianity and socialism alike, in fact, prescribe a society dedicated to the proposition that all men, women, and children are created equal and shall not starve." (Kurt Vonnegut)
+
+ "The story of *meritocracy* -- a society that migrates wealth, status, and decision-making power into the hands of the most capable -- is seductive. Rich people love the idea of meritocracy, because the alternative is that their lion's share is unfair, the product of luck, or, worse, cheating. But many of meritocracy's losers love it, too. In the [disputed] words of John Steinbeck, 'Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires.'" (Cory Doctorow)
+
+ "[Some] states are on the verge of reversing decades-old laws about homosexual relationships and marijuana use. If the old laws could have been perfectly enforced through surveillance, society would never have reached the point where the majority of citizens thought those things were okay. There has to be a period where they are still illegal yet increasingly tolerated, so that people can look around and say, 'You know, that wasn't so bad.' Yes, the process takes decades, but it's a process that can't happen without lawbreaking. [...] The perfect enforcement that comes with ubiquitous government surveillance chills this process. We need imperfect security -- systems that free people to try new things [...]. Freedoms we now take for granted were often at one time viewed as threatening or even criminal by the past power structure. Those changes might never have happened if the authorities had been able to achieve social control through surveillance. This is one of the main reasons all of us should care about [...] surveillance, even if we are not personally chilled by its existence. We suffer the effects because people around us will be less likely to proclaim new political or social ideas, or act out of the ordinary. If J. Edgar Hoover's surveillance of Martin Luther King Jr. had been successful in silencing him, it would have affected far more people than King and his family." (Bruce Schneier)
+
+ "What is [...] damaging -- and [...] engaging, and thus lucrative for Facebook -- is all of us in our own virtual neighborhoods of our own making, liking opinions that tell us we're right instead of engaging with viewpoints that make us question our assumptions." (Ben Thompson)
+
+ "As Cass Sunstein and others have shown, people become more extreme when they're around others who share their beliefs. [...] [T]he internet makes it easy to settle in a virtual neighborhood with people who agree with you. Polarization is going to get a lot worse before it starts getting better." (Ezra Klein)
+
+ "No woman in a burqa (or a hijab or a burkini) has ever done me any harm. But I was sacked (without explanation) by a man in a suit. Men in suits missold me pensions and endowments, costing me thousands of pounds. A man in a suit led us on a disastrous and illegal war. Men in suits led the banks and crashed the world economy. Other men in suits then increased the misery to millions through austerity. If we are to start telling people what to wear, maybe we should ban suits." (Henry Stewart)
+
+ "No country is immune from terrorism. It's easy to terrorize. Government and law enforcement have to be correct 24 hours a day, 7 days a week, 365 days a year." (John Kerry)
+
+ "Throughout history, reliance on terrorism has been the tactic of movements that were weak and had little popular support. The goal of terrorist attacks is always to provoke an overreaction that will increase support for the terrorist's cause." (Greg G.)
+
+ "Disillusionment and cynicism have become natural byproducts of everyday journalism. [...] As a result, what audiences see beyond their direct experience is a world of unchecked pathology, and it makes it all too easy to fear and demonize others. It shapes people's behaviors and choice of leaders." (David Bornstein and Tina Rosenberg)
+
+ "Since the early 1970s, surveys conducted annually have revealed that trust and confidence in virtually all American institutions -- government, corporations, banks, medicine, education, organized religion and, yes, the press -- have been declining steadily." (David Bornstein and Tina Rosenberg)
+
+ "[M]any Americans today have difficulty imagining, valuing or even believing in the promise of incremental system change, which leads to a greater appetite for revolutionary, smash-the-machine change [...]." (David Bornstein and Tina Rosenberg)
+
+ "The best defense against the fear-mongering of the demagogue is to reveal the decency, competence and courage of people determined to fix their society." (David Bornstein and Tina Rosenberg)
+
+ "If I can read your newspaper from orbit, what is public? If I can tell where you are in your house by imaging through the wall, what is public?" (Dan Geer)
+
+ The digital age and the internet take away the natural right to be forgotten. You are no longer able to fully reinvent yourself.
+
+ "Since 1851, Amsterdam had a registry that recorded the following innocent pieces of data about the residents: name, date of birth, address, marital status, parents, profession, religion, previous addresses and date of death if deceased. [...] What we do know is that [a] little field caused untold thousands of people to die once the occupiers decided to use it to locate Jewish people." (Jacques Mattheij)
+
+ "Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say." (Edward Snowden)
+
+ Mass surveillance can be used against journalists, whistleblowers and human rights activists. So even if you think that 'if you have nothing to hide, you have nothing to fear', people who represent your political beliefs *may* have something to fear.
+
+ "Show me the man, and I will find you the crime." (Lavrentiy Pavlovich Beria)
+
+ Privacy-preserving contact discovery remains an unsolved problem in practice. You can't hash contact identifiers before transmitting them because the space of pre-hash identifiers is usually too small, especially for phone numbers. Furthermore, you can't salt the identifiers. One might use bloom filters but this does not work for large lists of possible contacts. (Moxie Marlinspike)
+
+ Disable the HTTP "referer" in your web browser. In Firefox, type `about:config` in the address bar and set `network.http.sendRefererHeader` to `0` to do so.
+
+ Block trackers, analytics services etc. You can do this by installing the free [uBlock Origin](https://github.com/gorhill/uBlock) extension in your web browser.
+
+ Block all *third-party* cookies, i.e. cookies which are served from sites other than the one you're currently visiting. In Firefox, go to `Settings`, open the `Privacy` tab and go to section `History`. Define that Firefox will `use custom settings for history` and uncheck `Accept third-party cookies`.
+
+ "The reason we struggle with insecurity is because we compare our behind-the-scenes with everyone else's highlight reel." (Steven Furtick)
+
+ "It is difficult to get a man to understand something, when his salary depends upon his not understanding it." (Upton Beall Sinclair)
+
+ "[H]appiness [is] the most attractive female emotion expression, and one of the least attractive in males. In contrast, pride show[s] the reverse pattern; it [is] the most attractive male expression, and one of the least attractive in women." (Jessica L. Tracy and Alec T. Beall)
+
+ "Because it is always possible, after the fact, to come up with a story about why things worked out the way they did -- that the first 'Harry Potter' really was a brilliant book, even if the eight publishers who rejected it didn't know that at the time -- our belief in determinism is rarely shaken, no matter how often we are surprised." (Duncan J. Watts)
+
+ "[W]hen people tend to like what other people like, differences in popularity are subject to what is called 'cumulative advantage', or the 'rich get richer' effect. This means that if one object happens to be slightly more popular than another at just the right point, it will tend to become more popular still." (Duncan J. Watts)
+
+ "All over the place, from the popular culture to the propaganda system, there is constant pressure to make people feel that they are helpless, that the only role they can have is to ratify decisions and to consume." (Noam Chomsky)
+
+ "We all know that knowledge workers work best by getting into 'flow', also known as being 'in the zone', where they are fully concentrated on their work and fully tuned out of their environment. They lose track of time and produce great stuff through absolute concentration. This is when they get all of their productive work done. Writers, programmers, scientists, and even basketball players will tell you about being in the zone." (Joel Spolsky)
+
+ "It's when we have no firsthand information and must rely on the news that the world gets scary." (David Bornstein and Tina Rosenberg)
+
+ "We know from psychological research that a steady diet of news about violence, corruption and incompetence leads to increased fear, learned helplessness, hopelessness, cynicism, depression, isolation, hostility, contempt and anxiety. The journalist Walter Lippmann wrote: 'The way in which the world is imagined determines at any particular moment what men will do.'" (David Bornstein and Tina Rosenberg)
+
+ "Instead of studying, a student goes to a movie the night before an exam. If he performs poorly, he can attribute his failure to a lack of studying rather than to a lack of ability or intelligence. On the other hand, if he does well on the exam, he may conclude that he has exceptional ability, because he was able to perform well without studying." (Edward Hirt)
+
+ "The kids who race ahead in the readers without much supervision get praised for being smart. What are they learning? They're learning that being smart is not about overcoming tough challenges. It's about *finding work easy*. When they get to college or graduate school and it starts being hard, they don't necessarily know how to deal with that." (Carol Dweck)
+
+ "[A] science survey class [...] consists almost entirely of the theories that turned out to be right -- not the folks who believed in the mythical 'N-rays', declared that human beings had forty-eight chromosomes, or saw imaginary canals on Mars. [...] The people who believed in them frequently come across as ludicrous yokels, even though many of them were distinguished scientists who made real contributions to their fields." (Megan McArdle)
+
+ The most important lesson kids should learn is "the ability to learn from their mistakes, to be knocked down and to pick themselves up -- the ability, in other words, to fail gracefully." (Megan McArdle)
+
+ "I think about ninety percent of the problem in teaching, or maybe ninety-eight percent, is just to help the students get interested." (Noam Chomsky)
+
+ "Work finally begins when the fear of doing nothing exceeds the fear of doing it badly." (Alain de Botton)
+
+ "If your job is to eat a frog, eat it first thing in the morning, and if your job is to eat two frogs, eat the big one first." (Mark Twain)
+
+ "No one 'builds a house'. They lay one brick again and again and the end result is a house. Procrastinators are great visionaries -- they love to fantasize about the beautiful mansion they will one day have built -- but what they need to be are gritty construction workers, who methodically lay one brick after the other, day after day, without giving up, until a house is built." (Tim Urban)
+
+ "But the best thing [to fight procrastination] is to recognize that you don't have to be in the mood to do a certain task -- just ignore how you feel and get started." (Ana Swanson)
+
+ Milgram experiment
+   One of the most famous social science experiments of all time
+   Showed that most people will obey an authority figure even if the authority gives orders that conflict with the subject's morals.
+   Milgram wanted to prove that Germans have a stronger willingness to obey to authorities. Being the child of two eastern-European Jews, survivor's guilt after the Holocaust was probably one part of Milgram's motivation.
+   Milgram's work followed the Asch conformity experiments (where participants make judgments about drawn lines) but Milgram wanted to turn it "into a more humanly significant experiment".
+   The subjects were ordered to to give allegedly painful electric shocks to other people, who were in fact actors.
+   First tried on Americans in New Haven, the experiment showed subjects to be far more obedient than expected, so Milgram knew the German comparison wouldn't matter anymore.
+
+ Always use the rear hobs of your cooker and make the handles of your pots point to the rear as well if you have small children.
+
+ Never put out a grease fire by quenching it with water. Instead, extinguish it by choking it, i.e. cover it with a lid or blanket.
+
+ When serving warm dishes or beverages to small children, always check the temperature again by tasting the food.
+
+ Never leave the control for water temperature at 'hot'. The next person using the water may scald or burn themself.
+
+ Secure your water faucets with a thermostat that limits the maximum temperature to 50°C.
+
+ On New Year's Eve, never reignite unexploded fireworks but leave them untouched or render them harmless with water.
+
+ Never keep firecrackers in your (trouser) pockets. They may ignite due to the friction and cause serious burns.
+
+ Never use liquid fire accelerants such as ethanol. These evaporate heavily and cause highly explosive vapor. Instead, use solid barbecue lighters, e.g. cubes.
+
+ After the barbecue, let the fire and the glowing embers extinguish and cool down completely. During that period, don't leave the barbecue device unattended.
+
+ If you expect that you might need to extinguish a fire, have a bucket of sand or a fire blanket readily available.
+
+ For burns, the most important emergency aid is cooling down the burnt places with water (about 15°C) for 10 to 15 minutes.
+
+ "You have as much computing power in an Apple iPhone as was available at the time of the Apollo missions. But what is it being used for? It's being used to throw angry birds at pigs; it's being used to send pictures of your cat to people halfway around the world; it's being used to check in as the virtual mayor of a virtual nowhere while you're riding a subway from the nineteenth century." (Peter Thiel)
+
+ "Nixon's 1974 call for full energy independence by 1980 has given way to Obama's 2011 call for one-third oil independence by 2020." (Peter Thiel)
+
+ "The Golden Gate Bridge was built in three-and-a-half years in the 1930s. It's taken seven years to build an access road that costs more than the original bridge in real dollars." (Peter Thiel)
+
+ Deep water does not freeze as easily because (a) it takes colder temperatures to freeze water under pressure (b) existing ice will always float at the top and prevent exchange (c) there's geothermal energy from the ocean bed.
+
+ "Computing devices have been consistently multiplying in power [...] from the mechanical calculating devices used in the 1890 U.S. census, to Turing's relay-based machine that cracked the Nazi enigma code, to the vacuum tube computer that predicted Eisenhower's win in 1952, to the transistor-based machines used in the first space launches, to the integrated-circuit-based personal computer." (Ray Kurzweil)
+
+ "Moore's law" is the observation and forecast (and not a physical or natural law) by Intel co-founder Gordon E. Moore from 1965, revised in 1975, noticing that over the history of computing hardware, the number of transistors in a dense integrated circuit doubles approximately every two years.
+
+ "[C]himps and bonobos in particular take pride of place as our nearest living relatives, sharing approximately 99 percent of our DNA, with gorillas trailing at 98 percent. Yet that tiny portion of unshared DNA makes a world of difference: it gives us, for instance, our bipedal stance and the ability to plan missions to Mars." (Kate Wong)
+
+ There are five Nobel Prizes that had been established by Alfred Nobel in his will. Four of those are awarded by Swedish bodies while the Nobel Peace Prize is awarded by a 5-person committee from Norway.
+
+ Radar (*radio* detection and ranging), Lidar (*light* detection and ranging) and Sonar (*sound* navigation and ranging) are systems for object detection and similar purposes.
+
+ The Doppler effect is the change in frequency of periodic data (e.g. radio waves) that you see when an observer and a source move relatively to each other. You can witness it when an ambulance with a siren approaches (higher frequency), passes (normal frequency), and then departs again (lower frequency).
+
+ Making use of the Doppler effect, you can measure the speed of a target with Radar, Lidar and Sonar.
+
+ "The difference between weather and climate is a measure of time. Weather is what conditions of the atmosphere are over a short period of time, and climate is how the atmosphere 'behaves' over relatively long periods of time. [...] Some scientists define climate as the average weather for a particular region and time period, usually taken over 30 years." (NASA)
+
+ The best place to see the Hollywood sign is near Lake Hollywood Park, i.e. 3204 Canyon Lake Drive, Los Angeles, CA 90068. You can even get to the place above the sign with a great view. It's a three hour round-trip hike from Bronson Canyon where there's plenty of parking. (Alissa Walker)
+
+ `fork()` is a system call that is used for process creation. The calling process first creates a copy of itself (i.e. the child process) which may be followed by a call to `exec()`.
+
+ `fork()` may fail and returns `-1` in that case.
+
+ When calling `kill()`, first check if your `pid` is valid. If you treat `-1` as a valid `pid`, you're going to kill *all* processes "for which the calling process has permission to send signals, except for process 1 (init)".
+
+ If you see the error message `/bin/sh^M: bad interpreter`, your file has DOS line endings (CRLF) and must thus be converted to Unix line endings (LF) first.
+
+ "Show, don't tell": This enables the reader to experience the story implicitly through actions and feelings, and not explicitly through the author's summarizations. The goal is not to drown the reader in heavy-handed adjectives, but rather to allow readers to interpret significant details themselves.
+
+ Telling may be used as a shortcut, since showing requires more words. Telling may cover a greater span of time more concisely.
+
+ "Sometimes a writer tells as a shortcut, to move quickly to the meaty part of the story or scene. Showing is essentially about making scenes vivid. If you try to do it constantly, the parts that are supposed to stand out won't, and your readers will get exhausted." (James Scott Bell)
+
+ "The warning against telling leads to a confusion that causes novice writers to think that everything should be acted out ... when in fact the responsibility of showing should be assumed by the energetic and specific use of language." (Francine Prose)
+
