@@ -13,3 +13,35 @@ See? We're already becoming wiser.
 At any rate, this allows us to split the quotes into an array, and the server picks a random index to pick a quote. Easy peasy.
 
 Feel free to submit a PR if something seems off, or just shoot me an email and i'll fix it.
+
+### Update 12/2/2019
+
+I added the quotes from the following articles from [delight-im's Knowledge articles](https://github.com/delight-im/Knowledge):
+
+```
+Audio.md
+Browsers.md
+Business.md
+Creativity.md
+Economics.md
+Education.md
+Electronics.md
+Email.md
+Health.md
+History.md
+Home.md
+Law.md
+Life.md
+Media.md
+Mobile\ technology.md
+Politics.md
+Privacy.md
+Psychology.md
+Safety.md
+Science.md
+Travel.md
+Unix.md
+Writing.md
+```
+
+The script is in `create-quotes.sh` and I replaced `\n` with `\n\n` to fit the quotes split method.
