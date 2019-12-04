@@ -1395,7 +1395,8 @@ Who is wise? He who learns from all people...as it is said: "From all my teacher
 
 Each thing I do I rush through so I can do something else
 - Stephen King, Insomnia
- The human hearing range spans 20Hz to 20kHz. (Christopher Montgomery)
+
+The human hearing range spans 20Hz to 20kHz. (Christopher Montgomery)
 
  "[W]e can use low rate 44.1kHz or 48kHz audio with all the fidelity benefits of 192kHz or higher sampling (smooth frequency response, low aliasing) and none of the drawbacks (ultrasonics that cause intermodulation distortion, wasted space). Nearly all of today's analog-to-digital converters (ADCs) and digital-to-analog converters (DACs) oversample at very high rates." (Christopher Montgomery)
 
