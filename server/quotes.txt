@@ -94,11 +94,8 @@ Recurses! Called again.
 
 The huge printing presses of a major Chicago newspaper began malfunctioning on the Saturday before Christmas, putting all the revenue for advertising that was to appear in the Sunday paper in jeopardy. None of the technicians could track down the problem. Finally, a frantic call was made to the retired printer who had worked with these presses for over 40 years. "We'll pay anything; just come in and fix them," he was told.
 When he arrived, he walked around for a few minutes, surveying the presses; then he approached one of the control panels and opened it. He removed a dime from his pocket, turned a screw 1/4 of a turn, and said, "The presses will now work correctly." After being profusely thanked, he was told to submit a bill for his work.
-
 The bill arrived a few days later, for $10,000.00! Not wanting to pay such a huge amount for so little work, the printer was told to please itemize his charges, with the hope that he would reduce the amount once he had to identify his services. The revised bill arrived: $1.00 for turning the screw; $9,999.00 for knowing which screw to turn.
-
 Commentary: most debugging problems are fixed easily; identifying the location of the problem is hard.
-
 - Anonymous
 
 The person who knows HOW will always have a job. The person who knows WHY will always be his/her boss.
